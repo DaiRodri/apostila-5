@@ -1,0 +1,1 @@
+//Crie um array com 10 números e conte quantos são maiores que 50.
